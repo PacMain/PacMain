@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I've always got fun stuff going on!
+Check out my website http://pac-main.com
+
 <!--
 **PacMain/PacMain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
